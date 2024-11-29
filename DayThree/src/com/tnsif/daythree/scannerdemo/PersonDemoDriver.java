@@ -9,7 +9,7 @@ public class PersonDemoDriver {
 		Scanner ob=new Scanner(System.in);
 		
 		
-		String name;
+		String name;  // String name="Aakash";
 		System.out.println("Enter Person name :");
 		name=ob.next();
 		System.out.println("Enter age : ");

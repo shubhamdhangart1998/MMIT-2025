@@ -3,8 +3,8 @@ package com.tnsif.daythree.scannerdemo;
 public class TaxCalculation {
 
 	//function to calculate tax
-	public void calculateTax(Person person)//Pname, age, gender, income
-	                                   // FeMale female FEMALE
+	public void calculateTax(Person person)      //Pname, age, gender, income
+	                                 
 	{
 		if(person.getAge() >65 || person.getGender().equalsIgnoreCase("female"))
 		{

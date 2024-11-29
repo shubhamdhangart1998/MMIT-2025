@@ -4,10 +4,10 @@ public class Ifdemo {
 
 	public static void main(String[] args) {
 		
-		int x=51;
+		int x=5;
 		
 		if( x !=5)
-			System.out.println("Value of xis not 5");
+			System.out.println("Value of x is not 5");
 
 		
 

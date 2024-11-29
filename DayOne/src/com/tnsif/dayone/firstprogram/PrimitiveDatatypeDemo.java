@@ -6,7 +6,7 @@ public class PrimitiveDatatypeDemo {
 		
 		//Range of the primitive datatypes 
 		//byte takes 1 byte
-		// 1 byte = 8 bits    2^8  = 256
+		// 1 byte = 8 bits    2^8  = 256 256/2=128
 		
 		byte byteMax= 127;
 		byte byteMin= -128;
