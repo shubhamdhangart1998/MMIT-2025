@@ -26,6 +26,7 @@ public class PrimitiveDatatypeDemo {
 		//int takes 4 byte  2^32
 		
 		int intMax=2147483647;
+		//9,8,7
 		
 		int intMin=	-2147483648;	
 		
