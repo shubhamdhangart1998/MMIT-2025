@@ -1,6 +1,6 @@
 package com.tnsif.dayeight.markerdemo;
 
-@FunctionalInterface
+@FunctionalInterface  // annotation of fun Int
 public interface InterfaceDemo {
 	
 	
