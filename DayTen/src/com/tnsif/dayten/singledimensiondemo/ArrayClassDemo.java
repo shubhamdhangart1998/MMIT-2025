@@ -10,7 +10,7 @@ public class ArrayClassDemo {
 		//get the array
 		
 		int intArr[] = {69,20,12,40,35, 10};
-		
+		//index= 0-5  if i try to access index no 10 
 		//print this array
 		
 		System.out.println(Arrays.toString(intArr));
